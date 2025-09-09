@@ -69,3 +69,7 @@ Desafio 1 do curso Code Girls
 * Backup
 
 ![](MapamentalAWS(2).jpg)
+
+## Diagrama
+
+![](MapamentalAWS.jpg)
