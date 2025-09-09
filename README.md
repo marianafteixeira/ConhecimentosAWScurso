@@ -5,6 +5,8 @@ Desafio 1 do curso Code Girls
 * Regiões - Regiões onde tem os avaiability zones
 * Avaiability zones - Data centers independentes fisicamentem, mas conectados logicamente
 
+![](MapamentalAWS(1).jpg)
+
 ### Modelos de núvem:
 * Pública
 * Híbrida
