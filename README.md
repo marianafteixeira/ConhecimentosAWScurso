@@ -67,3 +67,5 @@ Desafio 1 do curso Code Girls
 ### Snapshot
 * Captura de um determinado momento
 * Backup
+
+![](MapamentalAWS(2).jpg)
