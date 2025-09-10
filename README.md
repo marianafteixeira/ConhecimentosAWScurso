@@ -19,11 +19,12 @@ Desafio 1 do curso Code Girls
 
 ### Criar conta:
 * Conta principal. Super usuário. Detém todos os poderes da conta
-* Criar ela e depois IAMS, para nao ter risco de perder a conta.
+* Criar ela e depois IAMS, para nao ter risco de perder a conta
 
 ### IAM:
-* Gerenciamento de identidade.
-* Criar perfis distintos para responsabilidades distintas.
+* Gerenciamento de identidade
+* Criar perfis distintos para responsabilidades distintas
+* Base para criar EC2
 
 ### Como criar recursos no AWS:
 * Via portal
