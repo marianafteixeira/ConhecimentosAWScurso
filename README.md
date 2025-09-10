@@ -34,7 +34,7 @@ Desafio 1 do curso Code Girls
 * Perfis com responsabilidades diferentes
 * Criar MFA (Autenticador multifatorial)
 
-## ECS - Máquina virtual da AWS
+## EC2 - Máquina virtual da AWS
 
 ### Tipos de instancias:
 * Sob demanda
@@ -45,6 +45,8 @@ Desafio 1 do curso Code Girls
 * Desligar EC2 que não estão sendo utilizadas
 * Remover acessos ociosos
 * Escalar recursos horizontalmente (número de recursos) e verticalmente (poder computacional)
+
+  ![](EC2.png)
 
 ## Armazenamento em nuvem
 
